@@ -1,4 +1,4 @@
 package com.coaching.app;
 
-public class Application {
+public class Application { 
 }
